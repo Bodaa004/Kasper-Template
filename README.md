@@ -12,7 +12,7 @@
 <a name="introduction"></a>
 Template Two is a HTML and CSS design project aimed at providing a clean and modern template for web development.
 
-**Demo:** [View Demo](https://bodaa00.github.io/Template_Two/)
+**Demo:** [View Demo](https://bodaa004.github.io/Kasper-Template/)
 
 ## Features
 <a name="features"></a>
